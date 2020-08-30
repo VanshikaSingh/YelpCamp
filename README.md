@@ -37,7 +37,7 @@ A Node.js web application project from Colt Steele's Udemy course - The Web Deve
 
 - Changed comment post and put routes to redirect back to single campground show page
 
-- Used Google Fonts and Font Awesome instead default fonts
+- Used Google Fonts and Font Awesome instead of default fonts
 
 - Used momentJS to show post and comment creation and update timestamp
 
